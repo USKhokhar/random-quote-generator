@@ -1,0 +1,21 @@
+~pwd      =present working directory
+~cd       =change directory
+~cd .     = take to the root directory
+~cd ..    =one step lesser than the root directory
+~ls       =list all files/folder in that directory
+~ls -al   =lists the current directory contents 
+~
+~
+~
+~
+1~git init =initialize a empty repository
+2~git status  =
+3~git add   =add to git repository
+~git add .   =add all files to repository
+~git log    =give log of
+~git commit -m "//Details"
+~git commit -a -m "//Details"    = add and commit in       one move
+~git log --oneline    =commits in one line
+~git log --oneline --graph    =
+~git remote add origin
+~git push origin master
